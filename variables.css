@@ -1,0 +1,46 @@
+:root {
+  /* Cores — Manual de Marca Elis Nhaia v1.0 */
+  --color-azul-petroleo: #17394A;
+  --color-azul-escuro: #0E2332;
+  --color-terracota: #D9783D;
+  --color-bege-claro: #F8EEE4;
+  --color-branco: #FFFFFF;
+  --color-cinza-azulado: #60727C;
+
+  /* Tipografia */
+  --font-display: 'Montserrat', 'Gotham', sans-serif;
+  --font-body: 'Lato', 'Open Sans', sans-serif;
+
+  --weight-display-xbold: 800;
+  --weight-display-bold: 700;
+  --weight-display-semibold: 600;
+  --weight-display-regular: 400;
+  --weight-body-bold: 700;
+  --weight-body-regular: 400;
+  --weight-body-light-italic: 300;
+
+  --size-h1: clamp(2.25rem, 5vw, 3.5rem);
+  --size-h2: clamp(1.5rem, 3vw, 2rem);
+  --size-h3: clamp(1.1rem, 2vw, 1.25rem);
+  --size-lead: clamp(1.05rem, 2vw, 1.125rem);
+  --size-body: 1rem;
+  --size-caption: 0.6875rem;
+
+  /* Raios */
+  --radius-pill: 999px;
+  --radius-card: 12px;
+
+  /* Espaçamento */
+  --space-section-mobile: 64px;
+  --space-section-desktop: 120px;
+  --space-gutter: 24px;
+  --max-width: 1120px;
+
+  /* Movimento */
+  --motion-duration: 600ms;
+  --motion-easing: cubic-bezier(.2,.7,.2,1);
+}
+
+@media (prefers-color-scheme: dark) {
+  /* A marca já opera predominantemente em fundo escuro; sem overrides necessários. */
+}

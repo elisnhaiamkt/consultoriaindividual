@@ -1,0 +1,57 @@
+{
+  "_comment": "Fonte única de verdade dos tokens visuais. Alterar cores/tipografia aqui reflete automaticamente no site (js/main.js injeta cada valor como variável CSS em :root). Não duplique estes valores em outro lugar.",
+
+  "colors": {
+    "azulPetroleo": "#17394A",
+    "azulEscuro": "#0E2332",
+    "laranjaTerracota": "#D9783D",
+    "begeClaro": "#F8EEE4",
+    "branco": "#FFFFFF",
+    "cinzaAzulado": "#60727C"
+  },
+
+  "typography": {
+    "display": "'Montserrat', 'Gotham', sans-serif",
+    "body": "'Lato', 'Open Sans', sans-serif",
+    "weights": {
+      "displayExtraBold": 800,
+      "displayBold": 700,
+      "displaySemiBold": 600,
+      "displayRegular": 400,
+      "bodyBold": 700,
+      "bodyRegular": 400,
+      "bodyLightItalic": 300
+    },
+    "scale": {
+      "h1": "clamp(2.25rem, 5vw, 3.5rem)",
+      "h2": "clamp(1.5rem, 3vw, 2rem)",
+      "h3": "clamp(1.1rem, 2vw, 1.25rem)",
+      "lead": "clamp(1.05rem, 2vw, 1.125rem)",
+      "body": "1rem",
+      "caption": "0.6875rem"
+    }
+  },
+
+  "radii": {
+    "pill": "999px",
+    "card": "12px"
+  },
+
+  "spacing": {
+    "sectionPaddingMobile": "64px",
+    "sectionPaddingDesktop": "120px",
+    "gutter": "24px",
+    "maxWidth": "1120px"
+  },
+
+  "breakpoints": {
+    "mobile": "0px",
+    "tablet": "768px",
+    "desktop": "1024px"
+  },
+
+  "motion": {
+    "revealDuration": "600ms",
+    "revealEasing": "cubic-bezier(.2,.7,.2,1)"
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "_comment": "Edite este arquivo para atualizar textos, links e mídia sem mexer em HTML/CSS/JS.",
+
+  "site": {
+    "title": "Consultoria Estratégica Individual — Elis Nhaia",
+    "description": "Três meses de imersão estratégica dedicada à sua empresa. Diagnóstico, direção e implementação conduzidos diretamente pela Elis Nhaia."
+  },
+
+  "contact": {
+    "whatsappNumber": "5547900000000",
+    "whatsappDefaultMessage": "Olá, quero conversar sobre a Consultoria Estratégica Individual.",
+    "email": "elisnhaiaconsultoria@gmail.com"
+  },
+
+  "cta": {
+    "primary": "Quero conversar com a equipe",
+    "secondary": "Falar no WhatsApp",
+    "scheduling": "Agendar uma conversa"
+  },
+
+  "hero": {
+    "eyebrow": "Consultoria Estratégica Individual",
+    "headline": "Sua empresa não precisa de mais esforço. Precisa de direção.",
+    "subheadline": "Três meses de imersão estratégica dedicada exclusivamente à realidade do seu negócio — conduzidos diretamente pela Elis Nhaia.",
+    "portraitAlt": "Retrato editorial de Elis Nhaia"
+  },
+
+  "momento": {
+    "eyebrow": "O momento da empresa",
+    "headline": "Em algum ponto, crescer deixa de ser suficiente.",
+    "situations": [
+      "A empresa cresce, mas as decisões ficam mais difíceis.",
+      "Os processos deixam de acompanhar o tamanho do negócio.",
+      "A equipe aumenta e a complexidade aumenta junto.",
+      "Os desafios de hoje não são os mesmos de dois anos atrás."
+    ],
+    "closing": "É nesse momento que estratégia deixa de ser diferencial e passa a ser necessidade."
+  },
+
+  "personalizacao": {
+    "eyebrow": "Construída para a sua realidade",
+    "headline": "Não existe diagnóstico padronizado. Nem solução copiada.",
+    "body": "Cada empresa recebe um processo exclusivo. A Elis observa, questiona e conduz com base no que a sua realidade exige — não em um roteiro fixo aplicado da mesma forma a todo mundo."
+  },
+
+  "metodo": {
+    "eyebrow": "Método",
+    "headline": "Critério, não improviso.",
+    "body": "Toda condução acontece com base em ferramentas de gestão reconhecidas e fundamentadas — aplicadas na medida exata em que cada realidade exige.",
+    "ferramentas": [
+      "SWOT",
+      "5W2H",
+      "Matriz GUT",
+      "Mapeamento de Processos",
+      "Indicadores de Gestão",
+      "Planejamento Estratégico",
+      "Pesquisa de Clima",
+      "Organização Comercial"
+    ]
+  },
+
+  "jornada": {
+    "eyebrow": "Como acontece a consultoria",
+    "headline": "Uma jornada, não uma entrega única.",
+    "etapas": [
+      { "titulo": "Imersão", "descricao": "A Elis mergulha na realidade da empresa: observa, conversa com lideranças e entende processos." },
+      { "titulo": "Diagnóstico", "descricao": "Aplicação das ferramentas de gestão adequadas para revelar problemas reais e oportunidades." },
+      { "titulo": "Priorização", "descricao": "O que decidir, o que priorizar e o que parar de fazer." },
+      { "titulo": "Plano Estratégico", "descricao": "Estruturação de um caminho consistente, específico para o negócio." },
+      { "titulo": "Implementação", "descricao": "Acompanhamento direto da execução — a estratégia sai do papel." },
+      { "titulo": "Ajustes", "descricao": "Correções de rota conforme a realidade responde ao plano." }
+    ]
+  },
+
+  "incluso": {
+    "eyebrow": "O que está incluso",
+    "cards": [
+      { "titulo": "Diagnóstico Estratégico", "descricao": "Leitura completa da realidade do negócio." },
+      { "titulo": "Imersão na Empresa", "descricao": "Observação direta de processos, equipe e indicadores." },
+      { "titulo": "Reuniões Individuais", "descricao": "Conduzidas diretamente pela Elis, sem intermediários." },
+      { "titulo": "Aplicação de Ferramentas", "descricao": "SWOT, 5W2H, GUT e outras, conforme a necessidade real." },
+      { "titulo": "Plano de Ação", "descricao": "Prioridades claras e prazos definidos." },
+      { "titulo": "Acompanhamento", "descricao": "Suporte à implementação ao longo dos três meses." },
+      { "titulo": "Direcionamento para Lideranças", "descricao": "Alinhamento entre visão estratégica e execução no dia a dia." },
+      { "titulo": "Suporte Estratégico", "descricao": "Disponibilidade para ajustes conforme o negócio evolui." }
+    ]
+  },
+
+  "confianca": {
+    "eyebrow": "Empresas que confiaram na Elis",
+    "logos": [
+      { "nome": "Mídia Clean", "arquivo": "assets/img/logo-midia-clean.svg" },
+      { "nome": "Revista DUO", "arquivo": "assets/img/logo-revista-duo.svg" }
+    ]
+  },
+
+  "resultados": {
+    "eyebrow": "Resultados construídos",
+    "cases": [
+      { "empresa": "A definir", "categoria": "Reestruturação Comercial", "resumo": "Estudo de caso a ser publicado." },
+      { "empresa": "A definir", "categoria": "Desenvolvimento de Lideranças", "resumo": "Estudo de caso a ser publicado." },
+      { "empresa": "A definir", "categoria": "Reposicionamento de Marca", "resumo": "Estudo de caso a ser publicado." }
+    ]
+  },
+
+  "depoimentos": {
+    "eyebrow": "Quem já viveu o processo",
+    "headline": "Depoimentos em vídeo",
+    "_instrucoes": "Vídeos hospedados como 'não listados' no YouTube. Cole apenas o ID do vídeo (o trecho após 'v=' na URL). Use youtube-nocookie para reduzir marca/rastreamento e sugestões do YouTube na tela.",
+    "videos": [
+      { "titulo": "Depoimento — a preencher", "youtubeId": "", "empresa": "" },
+      { "titulo": "Depoimento — a preencher", "youtubeId": "", "empresa": "" },
+      { "titulo": "Depoimento — a preencher", "youtubeId": "", "empresa": "" }
+    ]
+  },
+
+  "sobreElis": {
+    "eyebrow": "Sobre a Elis",
+    "headline": "26 anos operando empresas — não ensinando de fora.",
+    "body": "A trajetória da Elis é construída dentro das empresas, ao lado de equipes e lideranças, definindo processos que realmente funcionam na prática. Sua atuação une experiência operacional com ferramentas de gestão reconhecidas e fundamentadas.",
+    "numeros": [
+      { "valor": "26", "label": "Anos de mercado" },
+      { "valor": "100+", "label": "Empresas atendidas" },
+      { "valor": "11", "label": "Anos de consultoria" }
+    ]
+  },
+
+  "processoEntrada": {
+    "eyebrow": "Como começa",
+    "headline": "Esta consultoria não tem checkout. Começa com uma conversa.",
+    "etapas": ["Contato", "Reunião de alinhamento", "Compreensão da empresa", "Proposta personalizada", "Início da consultoria"]
+  },
+
+  "investimento": {
+    "eyebrow": "Investimento",
+    "valor": "R$ 18.000",
+    "produto": "Consultoria Estratégica Individual",
+    "duracao": "Duração de 3 meses"
+  },
+
+  "footer": {
+    "assinatura": "ELIS NHAIA — Consultoria e Treinamento",
+    "tagline": "Estratégia. Clareza. Resultado.",
+    "ano": "2026"
+  }
+}
