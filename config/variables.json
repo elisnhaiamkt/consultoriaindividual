@@ -1,0 +1,19 @@
+{
+  "_comment": "Fonte editável dos principais tokens visuais.",
+  "colors": {
+    "azulPetroleo": "#17394A",
+    "azulEscuro": "#0E2332",
+    "laranjaTerracota": "#D9783D",
+    "begeClaro": "#F8EEE4",
+    "branco": "#FFFFFF",
+    "cinzaAzulado": "#60727C"
+  },
+  "typography": {
+    "display": "'Montserrat', 'Gotham', sans-serif",
+    "body": "'Lato', 'Open Sans', sans-serif"
+  },
+  "radii": {
+    "pill": "999px",
+    "card": "8px"
+  }
+}

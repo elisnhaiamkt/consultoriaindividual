@@ -1,0 +1,45 @@
+{
+  "_comment": "Edite links, cases e vídeos aqui sem alterar HTML/CSS/JS.",
+  "site": {
+    "title": "Consultoria Estratégica Individual | Elis Nhaia",
+    "description": "Acompanhamento estratégico individual de 3 meses, conduzido diretamente por Elis Nhaia."
+  },
+  "contact": {
+    "whatsappNumber": "5547900000000",
+    "whatsappDefaultMessage": "Olá, quero falar com a equipe sobre a Consultoria Estratégica Individual da Elis Nhaia.",
+    "email": "elisnhaiaconsultoria@gmail.com"
+  },
+  "checkout": {
+    "hotmartUrl": "#investimento"
+  },
+  "resultados": {
+    "cases": [
+      {
+        "titulo": "Organização comercial",
+        "desafio": "Inserir contexto específico da empresa.",
+        "solucao": "Inserir decisão, ferramenta ou processo aplicado.",
+        "resultado": "Inserir indicador, mudança observada ou evidência."
+      },
+      {
+        "titulo": "Processos e indicadores",
+        "desafio": "Inserir contexto específico da empresa.",
+        "solucao": "Inserir decisão, ferramenta ou processo aplicado.",
+        "resultado": "Inserir indicador, mudança observada ou evidência."
+      },
+      {
+        "titulo": "Gestão e liderança",
+        "desafio": "Inserir contexto específico da empresa.",
+        "solucao": "Inserir decisão, ferramenta ou processo aplicado.",
+        "resultado": "Inserir indicador, mudança observada ou evidência."
+      }
+    ]
+  },
+  "depoimentos": {
+    "_instrucoes": "Use vídeos do Vimeo. Cole apenas o ID numérico do vídeo em vimeoId.",
+    "videos": [
+      { "titulo": "Depoimento a preencher", "vimeoId": "" },
+      { "titulo": "Depoimento a preencher", "vimeoId": "" },
+      { "titulo": "Depoimento a preencher", "vimeoId": "" }
+    ]
+  }
+}
